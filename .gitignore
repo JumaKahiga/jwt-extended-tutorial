@@ -1,0 +1,6 @@
+.env
+tutenv
+*.pyc
+__pycache__
+.coverage
+.cache/
